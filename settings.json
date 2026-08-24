@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dee-hq.aternos.me",
+    "ip": "bluewhiting.aternos.host",
     "port": 40816,
     "version": "1.20.1",
     "try-creative": false
