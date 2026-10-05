@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dee-hq.aternos.me",
-    "port": 40816,
+    "ip": "deehq.mcsh.io",
+    "port": 25565,
     "version": "1.20.1",
     "try-creative": false
   },
